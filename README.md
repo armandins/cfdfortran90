@@ -33,8 +33,3 @@ Figures of sample results are provided.
 #### Lid Driven Cavity Flow 2D
 1. Explicit in Time
 2. Implicit in Time
-
-## Contact
-Ruipengyu (Brandon) Li
-
-Email: r.li3@lboro.ac.uk
